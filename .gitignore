@@ -35,3 +35,4 @@ mlflow.db
 ############################
 .DS_Store
 Thumbs.db
+/data
